@@ -15,4 +15,4 @@
 	url = git@github.com:rinze/estudio-voto-blanco2011.git
 [submodule "bixi-analysis"]
 	path = bixi-analysis
-	url = git@github.com:rinze/bixi-analysis.git
+	url = https://github.com/rinze/bixi-analysis.git
