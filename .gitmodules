@@ -13,3 +13,6 @@
 [submodule "estudio-voto-blanco2011"]
 	path = estudio-voto-blanco2011
 	url = git@github.com:rinze/estudio-voto-blanco2011.git
+[submodule "bixi-analysis"]
+	path = bixi-analysis
+	url = git@github.com:rinze/bixi-analysis.git
