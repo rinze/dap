@@ -16,3 +16,6 @@
 [submodule "bixi-analysis"]
 	path = bixi-analysis
 	url = https://github.com/rinze/bixi-analysis.git
+[submodule "spotify-moods"]
+	path = spotify-moods
+	url = https://github.com/rinze/spotify-moods.git
