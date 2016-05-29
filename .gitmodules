@@ -19,3 +19,6 @@
 [submodule "spotify-moods"]
 	path = spotify-moods
 	url = https://github.com/rinze/spotify-moods.git
+[submodule "el_pais_editoriales"]
+	path = el_pais_editoriales
+	url = https://github.com/rinze/el_pais_editoriales
