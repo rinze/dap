@@ -22,3 +22,6 @@
 [submodule "el_pais_editoriales"]
 	path = el_pais_editoriales
 	url = https://github.com/rinze/el_pais_editoriales
+[submodule "un_clustering"]
+	path = un_clustering
+	url = https://github.com/rinze/un_clustering.git
