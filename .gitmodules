@@ -25,3 +25,6 @@
 [submodule "un_clustering"]
 	path = un_clustering
 	url = https://github.com/rinze/un_clustering.git
+[submodule "google-hollywood-suggestions"]
+	path = google-hollywood-suggestions
+	url = https://github.com/rinze/google-hollywood-suggestions
