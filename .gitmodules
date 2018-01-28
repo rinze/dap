@@ -28,3 +28,12 @@
 [submodule "google-hollywood-suggestions"]
 	path = google-hollywood-suggestions
 	url = https://github.com/rinze/google-hollywood-suggestions
+[submodule "nygraph_twitter"]
+	path = nygraph_twitter
+	url = https://github.com/rinze/nygraph_twitter
+[submodule "wikidata-experiments"]
+	path = wikidata-experiments
+	url = https://github.com/rinze/wikidata-experiments
+[submodule "black-friday-stravaganza"]
+	path = black-friday-stravaganza
+	url = https://github.com/rinze/black-friday-stravaganza
