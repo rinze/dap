@@ -37,3 +37,6 @@
 [submodule "black-friday-stravaganza"]
 	path = black-friday-stravaganza
 	url = https://github.com/rinze/black-friday-stravaganza
+[submodule "bicimad_viajes"]
+	path = bicimad_viajes
+	url = https://github.com/rinze/bicimad_viajes
